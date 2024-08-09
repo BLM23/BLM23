@@ -18,6 +18,3 @@ I am a student of the Computer Science Course at the Federal University of Alfen
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BLM/BLM/output/snake.svg" alt="Snake animation" />
-
-###
