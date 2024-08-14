@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=4882&pause=1000&color=F71515&width=433&height=27&lines=Hello%2C+Welcome!+;Computer+Science+Student+at+Unifal)](https://git.io/typing-svg)
 
+<br>
+<br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BLM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BLM&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
