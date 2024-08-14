@@ -1,13 +1,5 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/76e7c80d-f412-438f-b752-d3f566a3badb"/>
-<br>
-<br>
-<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71515&width=435&lines=Hello%2C+Welcome!;Computer+Science+student+at+the+Federal+University+of+Alfenas)](https://git.io/typing-svg)
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71515&width=435&lines=Hello%2C+Welcome!+Computer+Science+student+at+the+Federa;Computer+Science+student+at+the+Federal+University+of+Alfenas)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BLM&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
