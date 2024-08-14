@@ -1,9 +1,4 @@
-<h1 align="left">Hello, Welcome!
-
-###
-
-<p align="left">I am a student of the Computer Science Course at the Federal University of Alfenas</p>
-
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/f32f63bd-be15-4fc5-932f-270483ad4076"/>
 ###
 
 <div align="center">
