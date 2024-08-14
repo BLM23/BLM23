@@ -34,22 +34,3 @@
 
 ###
 ###
-<p align="left">Social Mídia</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foperobal.uel.br%2Fultimas%2F2023%2F03%2F31%2Fmulheres-perderam-espaco-na-ciencia-da-computacao-ao-longo-do-tempo%2F&psig=AOvVaw00FwYEg8binE5Vt-0kPJzY&ust=1723744688635000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDwx8WH9YcDFQAAAAAdAAAAABAE"  />
-</div>
-
-###
